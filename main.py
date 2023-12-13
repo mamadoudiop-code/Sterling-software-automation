@@ -33,7 +33,7 @@ password = ""
 driver = webdriver.Chrome(options=options)
 
 # Open the target URL
-driver.get("https://www.supply-chain.ibm.com/launch/")
+driver.get("")
 time.sleep(5)  # Wait for the page to load
 
 # Find and click the login button
