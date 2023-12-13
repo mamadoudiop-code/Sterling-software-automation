@@ -6,7 +6,7 @@ import os
 import glob
 
 # Set the download path
-download_path = "C:\\Users\\mdiop\\PycharmProjects\\Sterling project\\sterling\\files"
+download_path = "C:\\Users\\"
 
 # Specify the pattern to delete existing .xlsx files
 pattern = "*.xlsx"
